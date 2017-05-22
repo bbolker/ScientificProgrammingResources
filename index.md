@@ -1,5 +1,5 @@
-Some McMaster Informatics Resources
-===================================
+Some McMaster Scientific Programming Resources
+==============================================
 
 Local Resources
 ---------------
