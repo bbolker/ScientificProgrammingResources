@@ -15,7 +15,7 @@ data analysis.  Typically one person presents each week.
 	[here](https://mailman.mcmaster.ca/mailman/listinfo/biodatalunch-l)
 	* Email <mailto:bolker@mcmaster.ca> if you have a problem you want to present and get help
 	on.
-	* Fridays at 12:30 in LSB 216, unless otherwise specified.
+	* Fridays at 12:30 in LSB 213A, unless otherwise specified.
 * [Bioinformatics &amp;
 Beers](https://www.meetup.com/McMaster-Bioinformatics-Meet-Up/): Monthly social
 gathering of people interested in discussing bioinformatics and data analysis.
